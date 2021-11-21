@@ -10,8 +10,12 @@ div {
 	width: 100px;
 	height:100px;
 }
-.red {
+.black {
 	background-color: red;
+}
+
+.gray {
+	background-color: gray;
 }
 
 .blue {
@@ -28,7 +32,9 @@ div {
 </style>
 </head>
 <body>
-	<div class="red">빨강</div>
+	<div class="black">검정</div>
+	
+	<div class="gray">회색</div>
 	
 	<div class="yellow">노랑</div>
 	
